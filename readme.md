@@ -121,10 +121,6 @@ If you use this implementation, please cite the original paper:
 }
 ```
 
-## License
-
-[Add your license here]
-
 ## Contributing
 
 Contributions are welcome! Please feel free to submit issues and pull requests.
